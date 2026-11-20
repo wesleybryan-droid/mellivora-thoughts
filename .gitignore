@@ -1,0 +1,4 @@
+# Episode audio is hosted in Cloudflare R2 (bucket mellivora-thoughts-audio), not on GitHub Pages
+episodes/*.m4a
+.DS_Store
+.wrangler/
